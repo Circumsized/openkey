@@ -19,6 +19,9 @@ __pycache__/
 venv/
 ENV/
 
+# Local tooling state (Mimosa scan artifacts etc.)
+.mimosa/
+
 # OS generated files
 Thumbs.db
 ehthumbs.db
